@@ -1,6 +1,6 @@
 # Retail Order Data Analysis
 
-## **Skills Takeaway from This Project**
+## **Skills**
 - Kaggle API
 - Python
 - SQL
